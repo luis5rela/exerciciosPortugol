@@ -32,7 +32,6 @@ programa {
     }
     escreva("\n A média das notas é ", med)
 
-
   }
 
 }
