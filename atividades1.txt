@@ -1,0 +1,16 @@
+Exercício 1 - Soma
+Exercício 2 - Média
+Exercício 3 - Soma II
+Exercício 4 - Metros para Centimetros
+Exercício 5 - Calculo de Area
+Exercício 6 - Calculando Salario
+Exercício 7 - Indice de Massa Corporal IMC
+Exercício 8 - Converter Milhas em Kilometros
+Exercício 9 - Reajuste Salarial
+Exercício 10 - Aplicacao Financeira
+Exercício 11 - Divisao
+Exercício 12 - Conversao de Kilos em Dias
+Exercício 13 - Porcentagem e Condicao
+Exercício 14 - Consumo Combustivel
+Exercício 15 - Lucro da Loja
+Exercício 16 - Milhares Centenas Dezenas Unidades
