@@ -14,7 +14,7 @@ programa {
     escreva("Insira o valor do reajuste em %: ")
     leia(rs)
     //calculo do novo salario com reajuste 
-    ns=s*(rs/100)+s
+    ns+=s*(rs/100)
     //apresentacao do resultado
     escreva("\nA valor do salário digitado é R$",s,".\n")
     escreva("\nO valor do reajuste digitado é ",rs,"%.\n")
