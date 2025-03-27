@@ -13,7 +13,6 @@ programa {
     //escreva("A medida em cm é: ",b," cm.")
     
     // otimizando o codigo.
-
     a*=100
      escreva("A medida em cm é: ",a," cm.")
   }
