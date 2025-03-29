@@ -1,1 +1,2 @@
-[README.txt](https://github.com/user-attachments/files/19522154/README.txt)
+Olá, fique á vontade para comentar, melhorar e me ajudar com novos raciocinios.
+COMEÇA, DEPOIS MELHORE!
