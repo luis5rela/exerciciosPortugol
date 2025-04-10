@@ -18,7 +18,7 @@ programa {
       totalAPagar = b*quant_book 
     } 
     //Apresentando resultado
-    escreva("\nO valor total a pagar é: ",totalAPagar,".")
+    escreva("\nO valor total a pagar é R$ ",totalAPagar,".")
     
   }
 }
