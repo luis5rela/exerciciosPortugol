@@ -27,6 +27,5 @@ programa {
 				escreva("\nEquipe classificada!")
 				}
 	}
-
   }
 }
