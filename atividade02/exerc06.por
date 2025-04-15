@@ -1,11 +1,11 @@
 programa {
-//Em um torneio de atletismo as equipes são formadas por quatro jogadores. A equipe da Escola SóDaCampeão é formada pelos seguintes atletas: João, Chico, Pedro e Bola.
-//Algumas restrições podem ocasionar a desclassificação da equipe, são elas:
-//a) O jogador João não pode ter um número de pontos menor que a metade da soma dos pontos dos demais jogadores que compõem a equipe.
-//b) O jogador Pedro não pode ficar com o triplo de pontos do jogador Bola.
-//c) O jogador Chico não pode ficar com zero pontos.
-//d) O jogador Bola não pode ficar com até metade dos pontos do jogador Pedro ou abaixo da soma de pontos dos jogadores João e Chico.
-//Sendo assim, elabore um algoritmo que leia a pontuação de cada um dos jogadores citados. Após, verifique e mostre se a equipe foi ou não desclassificada.
+	//Em um torneio de atletismo as equipes são formadas por quatro jogadores. A equipe da Escola SóDaCampeão é formada pelos seguintes atletas: João, Chico, Pedro e Bola.
+	//Algumas restrições podem ocasionar a desclassificação da equipe, são elas:
+	//a) O jogador João não pode ter um número de pontos menor que a metade da soma dos pontos dos demais jogadores que compõem a equipe.
+	//b) O jogador Pedro não pode ficar com o triplo de pontos do jogador Bola.
+	//c) O jogador Chico não pode ficar com zero pontos.
+	//d) O jogador Bola não pode ficar com até metade dos pontos do jogador Pedro ou abaixo da soma de pontos dos jogadores João e Chico.
+	//Sendo assim, elabore um algoritmo que leia a pontuação de cada um dos jogadores citados. Após, verifique e mostre se a equipe foi ou não desclassificada.
   funcao inicio() {
 
     //difinir as variáveis
